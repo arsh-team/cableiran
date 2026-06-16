@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Iranian Cable & Telecom — Global Fiber Optic & Power Cable Manufacturer",
+    "description": "Iran's leading manufacturer of fiber optic telecom cables, power lines, and network cables. International standards, competitive pricing, worldwide shipping."
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "headline": "Connecting the World's Infrastructure",
+    "subheadline": "Iran's #1 manufacturer of fiber optic and telecom cables — delivering world-class quality to international markets across the Middle East, Central Asia, Europe, and Latin America.",
+    "cta_products": "Explore Products",
+    "cta_whatsapp": "Contact on WhatsApp"
+  },
+  "stats": {
+    "years": "Years of Manufacturing",
+    "countries": "Countries Served",
+    "cable_types": "Types of Cables",
+    "standards": "International Standards",
+    "years_value": 40,
+    "countries_value": 35,
+    "cable_types_value": 200,
+    "standards_value": 50
+  },
+  "products": {
+    "title": "Our Product Catalog",
+    "subtitle": "Comprehensive range of cables and conductors manufactured to international standards",
+    "filter_all": "All Products",
+    "filter_fiber": "Fiber Optic",
+    "filter_power": "Power Lines",
+    "filter_network": "Network",
+    "filter_infrastructure": "Infrastructure",
+    "learn_more": "Learn More",
+    "inquire": "Inquire on WhatsApp",
+    "category_fiber": "Fiber Optic",
+    "category_power": "Power Lines",
+    "category_network": "Network",
+    "category_infrastructure": "Infrastructure"
+  },
+  "product_detail": {
+    "specifications": "Specifications",
+    "standards": "International Standards",
+    "available_sizes": "Available Sizes",
+    "inquire": "Inquire About This Product",
+    "back": "Back to Products",
+    "close": "Close"
+  },
+  "why_us": {
+    "title": "Why Choose Us",
+    "subtitle": "Three pillars that set us apart in the global cable manufacturing industry",
+    "pillar1_title": "Global Standards",
+    "pillar1_desc": "Full compliance with IEC, ISO, ITU-T, and ASTM international standards. Every cable we produce undergoes rigorous quality testing to ensure it meets or exceeds global benchmarks for performance, safety, and reliability. Our certifications open doors to procurement in any market worldwide.",
+    "pillar2_title": "Competitive Pricing",
+    "pillar2_desc": "As a direct manufacturer with decades of production expertise, we eliminate middleman markups and deliver premium-grade cables at factory prices. Our vertically integrated operations and economies of scale translate to significant cost savings for international buyers without compromising on quality.",
+    "pillar3_title": "Fast International Shipping",
+    "pillar3_desc": "Strategic logistics partnerships and proximity to key Middle Eastern and Central Asian markets enable rapid delivery to over 35 countries. We handle export documentation, customs compliance, and door-to-door logistics so your procurement process is seamless and predictable."
+  },
+  "contact": {
+    "title": "Ready to Order? Get in Touch.",
+    "subtitle": "Our team responds within 24 hours to all inquiries",
+    "whatsapp": "Chat on WhatsApp",
+    "telegram": "Message on Telegram",
+    "phone": "Call Us",
+    "phone_number": "+98 919 296 0344",
+    "form_name": "Your Name",
+    "form_country": "Your Country",
+    "form_product": "Product Interest",
+    "form_message": "Your Message",
+    "form_send": "Send via WhatsApp",
+    "form_placeholder_name": "Enter your full name",
+    "form_placeholder_country": "Enter your country",
+    "form_placeholder_product": "Which product are you interested in?",
+    "form_placeholder_message": "Tell us about your requirements..."
+  },
+  "footer": {
+    "tagline": "Iran's premier cable manufacturer — connecting nations through quality and innovation.",
+    "products": "Products",
+    "company": "Company",
+    "manufactured": "Proudly Manufactured in Iran",
+    "rights": "All rights reserved."
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "ru": "Русский",
+    "fa-AF": "دری",
+    "es": "Español",
+    "pt": "Português"
+  },
+  "product_names": {
+    "fiber-optic-telecom": "Fiber Optic Telecom Cable",
+    "acsr-abc": "Copper & Aluminum Power Lines",
+    "overhead-lines": "Overhead Lines",
+    "rigid-aluminum": "Rigid Aluminum Cables",
+    "network-cables": "Network Cables",
+    "micro-fiber": "Micro Fiber Optic Cables",
+    "drop-cables": "Drop Cables",
+    "microducts": "Microducts"
+  },
+  "product_descriptions": {
+    "fiber-optic-telecom": "All types of fiber optic cables for telecommunications infrastructure, meeting international IEC and ITU standards. Designed for long-haul, metropolitan, and access network deployments with superior optical performance.",
+    "acsr-abc": "ACSR (Aluminum Conductor Steel Reinforced) and ABC (Aerial Bundled Cable) conductors for power transmission and distribution. Engineered for high mechanical strength and efficient current carrying capacity.",
+    "overhead-lines": "ACSR lines, copper conductors, aluminum conductors, and composite lines in all sizes and cross-sections. Manufactured to international standards for reliable overhead power transmission.",
+    "rigid-aluminum": "Solid aluminum conductor cables for specialized power distribution applications. High conductivity with excellent corrosion resistance for demanding environments.",
+    "network-cables": "Complete range of CAT series cables — CAT5e, CAT6, CAT6A, CAT7, and CAT8 — for high-speed data networking infrastructure. Verified performance for enterprise and data center installations.",
+    "micro-fiber": "Ultra-compact fiber optic cables for dense deployment scenarios. Ideal for micro-trenching, duct installation, and space-constrained environments without sacrificing performance.",
+    "drop-cables": "Last-mile fiber drop cables for FTTH (Fiber to the Home) and FTTP deployments. Easy to install with superior bend performance for residential and commercial connections.",
+    "microducts": "Micro-conduit systems for fiber cable routing and protection. Modular, scalable infrastructure for future-proof fiber network deployments."
+  },
+  "product_specs": {
+    "fiber-optic-telecom": "Single-mode & multi-mode | Up to 288 fibers | Armored & non-armored | Gel-filled & dry core",
+    "acsr-abc": "Various cross-sections | Steel core reinforcement | Weather-resistant insulation | IEC 61089 compliant",
+    "overhead-lines": "All sizes & cross-sections | Copper, aluminum & composite | IEC & ASTM standards | Custom configurations",
+    "rigid-aluminum": "Solid conductor design | High conductivity alloy | Corrosion-resistant | Multiple cross-sections",
+    "network-cables": "CAT5e to CAT8 | Shielded & unshielded | UTP/FTP/STP variants | Up to 2000MHz bandwidth",
+    "micro-fiber": "Compact design | 2-12 fibers | Small bend radius | Blown cable compatible",
+    "drop-cables": "Flat & round profiles | Single & multi-fiber | G.657 bend-insensitive | Pre-connectorized options",
+    "microducts": "Various diameters | Single & multi-way | HDPE construction | Blow-in installation"
+  },
+  "product_standards": {
+    "fiber-optic-telecom": ["IEC 60793", "IEC 60794", "ITU-T G.652", "ITU-T G.657"],
+    "acsr-abc": ["IEC 61089", "IEC 60228", "ASTM B232", "ASTM B399"],
+    "overhead-lines": ["IEC 61089", "IEC 60228", "ASTM B8", "ASTM B232"],
+    "rigid-aluminum": ["IEC 60228", "ASTM B230", "IEC 60889"],
+    "network-cables": ["ISO/IEC 11801", "TIA-568", "EN 50173", "IEC 61156"],
+    "micro-fiber": ["IEC 60794", "ITU-T G.657", "IEC 60793"],
+    "drop-cables": ["ITU-T G.657", "IEC 60794", "IEC 61753"],
+    "microducts": ["IEC 60794-5", "EN 50389", "ITU-T L.78"]
+  }
+}

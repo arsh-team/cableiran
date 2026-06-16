@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "title": "Cables y Telecomunicaciones Iraníes — Fabricante Global de Cables de Fibra Óptica y Energía",
+    "description": "El principal fabricante iraní de cables de fibra óptica, líneas de energía y cables de red. Estándares internacionales, precios competitivos, envío mundial."
+  },
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "headline": "Conectando la Infraestructura del Mundo",
+    "subheadline": "El fabricante #1 de Irán de cables de fibra óptica y telecomunicaciones — ofreciendo calidad de clase mundial a mercados internacionales de Medio Oriente, Asia Central, Europa y América Latina.",
+    "cta_products": "Explorar Productos",
+    "cta_whatsapp": "Contactar por WhatsApp"
+  },
+  "stats": {
+    "years": "Años de Fabricación",
+    "countries": "Países Atendidos",
+    "cable_types": "Tipos de Cables",
+    "standards": "Estándares Internacionales",
+    "years_value": 40,
+    "countries_value": 35,
+    "cable_types_value": 200,
+    "standards_value": 50
+  },
+  "products": {
+    "title": "Catálogo de Productos",
+    "subtitle": "Gama completa de cables y conductores fabricados según estándares internacionales",
+    "filter_all": "Todos los Productos",
+    "filter_fiber": "Fibra Óptica",
+    "filter_power": "Líneas de Energía",
+    "filter_network": "Red",
+    "filter_infrastructure": "Infraestructura",
+    "learn_more": "Más Información",
+    "inquire": "Consultar por WhatsApp",
+    "category_fiber": "Fibra Óptica",
+    "category_power": "Líneas de Energía",
+    "category_network": "Red",
+    "category_infrastructure": "Infraestructura"
+  },
+  "product_detail": {
+    "specifications": "Especificaciones",
+    "standards": "Estándares Internacionales",
+    "available_sizes": "Tamaños Disponibles",
+    "inquire": "Consultar sobre este Producto",
+    "back": "Volver a Productos",
+    "close": "Cerrar"
+  },
+  "why_us": {
+    "title": "Por Qué Elegirnos",
+    "subtitle": "Tres pilares que nos distinguen en la industria global de cables",
+    "pillar1_title": "Estándares Globales",
+    "pillar1_desc": "Cumplimiento total con los estándares internacionales IEC, ISO, ITU-T y ASTM. Cada cable que producimos se somete a rigurosas pruebas de calidad para asegurar que cumple o supera los estándares globales de rendimiento, seguridad y fiabilidad. Nuestras certificaciones abren puertas a adquisiciones en cualquier mercado del mundo.",
+    "pillar2_title": "Precios Competitivos",
+    "pillar2_desc": "Como fabricante directo con décadas de experiencia productiva, eliminamos los márgenes de intermediarios y entregamos cables de grado premium a precios de fábrica. Nuestras operaciones verticalmente integradas y economías de escala se traducen en ahorros significativos para compradores internacionales sin comprometer la calidad.",
+    "pillar3_title": "Envío Internacional Rápido",
+    "pillar3_desc": "Alianzas logísticas estratégicas y proximidad a los mercados clave de Medio Oriente y Asia Central permiten entregas rápidas a más de 35 países. Gestionamos la documentación de exportación, el cumplimiento aduanero y la logística puerta a puerta."
+  },
+  "contact": {
+    "title": "¿Listo para ordenar? Contáctenos.",
+    "subtitle": "Nuestro equipo responde a todas las consultas en 24 horas",
+    "whatsapp": "Chatear en WhatsApp",
+    "telegram": "Mensaje en Telegram",
+    "phone": "Llámenos",
+    "phone_number": "+98 919 296 0344",
+    "form_name": "Su Nombre",
+    "form_country": "Su País",
+    "form_product": "Producto de Interés",
+    "form_message": "Su Mensaje",
+    "form_send": "Enviar por WhatsApp",
+    "form_placeholder_name": "Ingrese su nombre completo",
+    "form_placeholder_country": "Ingrese su país",
+    "form_placeholder_product": "¿Qué producto le interesa?",
+    "form_placeholder_message": "Cuéntenos sobre sus requisitos..."
+  },
+  "footer": {
+    "tagline": "El principal fabricante de cables de Irán — conectando naciones con calidad e innovación.",
+    "products": "Productos",
+    "company": "Empresa",
+    "manufactured": "Orgullosamente Fabricado en Irán",
+    "rights": "Todos los derechos reservados."
+  },
+  "languages": {
+    "en": "English",
+    "ar": "العربية",
+    "ru": "Русский",
+    "fa-AF": "دری",
+    "es": "Español",
+    "pt": "Português"
+  },
+  "product_names": {
+    "fiber-optic-telecom": "Cable de Fibra Óptica para Telecomunicaciones",
+    "acsr-abc": "Líneas de Energía de Cobre y Aluminio",
+    "overhead-lines": "Líneas Aéreas",
+    "rigid-aluminum": "Cables de Aluminio Rígido",
+    "network-cables": "Cables de Red",
+    "micro-fiber": "Cables de Micro Fibra Óptica",
+    "drop-cables": "Cables de Conexión",
+    "microducts": "Microductos"
+  },
+  "product_descriptions": {
+    "fiber-optic-telecom": "Todos los tipos de cables de fibra óptica para infraestructura de telecomunicaciones según estándares IEC e ITU. Diseñados para despliegues de larga distancia, metropolitanos y de acceso con rendimiento óptico superior.",
+    "acsr-abc": "Conductores ACSR y ABC para transmisión y distribución de energía. Diseñados para alta resistencia mecánica y capacidad eficiente de conducción de corriente.",
+    "overhead-lines": "Líneas ACSR, conductores de cobre, aluminio y líneas compuestas en todos los tamaños y secciones transversales. Fabricados según estándares internacionales.",
+    "rigid-aluminum": "Cables de conductor de aluminio sólido para aplicaciones especializadas de distribución de energía. Alta conductividad con excelente resistencia a la corrosión.",
+    "network-cables": "Gama completa de cables de la serie CAT — CAT5e, CAT6, CAT6A, CAT7 y CAT8 — para infraestructura de redes de datos de alta velocidad.",
+    "micro-fiber": "Cables de fibra óptica ultracompactos para escenarios de despliegue denso. Ideales para microtrincheras, instalación en ductos y espacios reducidos.",
+    "drop-cables": "Cables de fibra de última milla para despliegues FTTH y FTTP. Fácil instalación con rendimiento de curvatura superior.",
+    "microducts": "Sistemas de microconductos para enrutamiento y protección de cables de fibra. Infraestructura escalable para despliegues de redes de fibra futuras."
+  },
+  "product_specs": {
+    "fiber-optic-telecom": "Monomodo y multimodo | Hasta 288 fibras | Blindados y no blindados | Rellenos de gel y secos",
+    "acsr-abc": "Varias secciones transversales | Refuerzo de núcleo de acero | Aislamiento resistente | Cumplimiento IEC 61089",
+    "overhead-lines": "Todos los tamaños y secciones | Cobre, aluminio y compuesto | Estándares IEC y ASTM | Configuraciones personalizadas",
+    "rigid-aluminum": "Diseño de conductor sólido | Aleación de alta conductividad | Resistente a la corrosión | Múltiples secciones",
+    "network-cables": "CAT5e a CAT8 | Apantallados y no apantallados | Variantes UTP/FTP/STP | Hasta 2000 MHz",
+    "micro-fiber": "Diseño compacto | 2-12 fibras | Radio de curvatura pequeño | Compatible con soplado",
+    "drop-cables": "Perfiles planos y redondos | Fibra simple y múltiple | G.657 insensibles a curvatura | Opciones preconectorizadas",
+    "microducts": "Varios diámetros | Simple y multivía | Construcción HDPE | Instalación por soplado"
+  },
+  "product_standards": {
+    "fiber-optic-telecom": ["IEC 60793", "IEC 60794", "ITU-T G.652", "ITU-T G.657"],
+    "acsr-abc": ["IEC 61089", "IEC 60228", "ASTM B232", "ASTM B399"],
+    "overhead-lines": ["IEC 61089", "IEC 60228", "ASTM B8", "ASTM B232"],
+    "rigid-aluminum": ["IEC 60228", "ASTM B230", "IEC 60889"],
+    "network-cables": ["ISO/IEC 11801", "TIA-568", "EN 50173", "IEC 61156"],
+    "micro-fiber": ["IEC 60794", "ITU-T G.657", "IEC 60793"],
+    "drop-cables": ["ITU-T G.657", "IEC 60794", "IEC 61753"],
+    "microducts": ["IEC 60794-5", "EN 50389", "ITU-T L.78"]
+  }
+}
